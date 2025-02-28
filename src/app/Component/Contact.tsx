@@ -46,7 +46,7 @@ export const Contact = () => {
       </h2>
       <p className="leading-relaxed mb-5 text-white">
         Feel Free To Contact </p>
-        <form action="https://formspree.io/f/mpzeegqn" method='POST'>
+        <form action="https://formspree.io/f/xwpvgvvd" method='POST'>
       <div className="relative mb-4 p-2">
         <label htmlFor="name" className="leading-7 text-sm text-white">
           Name
